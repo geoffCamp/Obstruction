@@ -1,7 +1,7 @@
  *******************************************************
 Geofferson Camp  
-CIS*2500                   Assignement 1 - Obstruction
-Januray 16th, 2015
+Obstruction
+Januray 2015
 *******************************************************
  
 
@@ -46,4 +46,3 @@ Running the program(s)
  
  - nCurses functions referenced from linux.die.net/man
  - nCurses colour features referenced from tldp.org/HOWTO/NCURSES-Programming-HOWTO/color.html
- - drawBoard approach taken from Dr. McCuaig's nCursesExample files.
